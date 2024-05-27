@@ -4,6 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
+
+
+
+
+![tablet](https://github.com/kalimaty/tableWidget/assets/105967966/38bb9bf1-90aa-4ab7-b07d-5a405fbfb28a)
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
